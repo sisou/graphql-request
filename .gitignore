@@ -1,5 +1,6 @@
 node_modules
 .idea
-dist
+dist/tests
+dist/src/*.ts
 .DS_Store
 *.log
